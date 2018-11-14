@@ -18,7 +18,7 @@ The variable type can be any type:
 
 # Install
 
-`go get -u github.com/vikyd/go-zero-const`
+`go get -u github.com/vikyd/go-zero-check`
 
 # Usage
 
@@ -26,7 +26,7 @@ The variable type can be any type:
 package main
 import (
     "fmt"
-    "github.com/vikyd/go-zero-const"
+    "github.com/vikyd/go-zero-check"
 )
 
 func main() {
