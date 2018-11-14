@@ -1,5 +1,4 @@
-# Golang Zero Value Constants
-
+# go-zero-check
 Golang [The zero value](https://golang.org/ref/spec#The_zero_value)
 
 Check if a variable is its type's `zero value` or `default value`
