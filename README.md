@@ -1,4 +1,4 @@
-# go-zero-check
+# zero
 Golang [The zero value](https://golang.org/ref/spec#The_zero_value)
 
 Check if a variable is its type's `zero value` or `default value`
@@ -18,7 +18,7 @@ The variable type can be any type:
 
 # Install
 
-`go get -u github.com/vikyd/go-zero-check`
+`go get -u github.com/vikyd/zero`
 
 # Usage
 
@@ -26,7 +26,7 @@ The variable type can be any type:
 package main
 import (
     "fmt"
-    "github.com/vikyd/go-zero-check"
+    "github.com/vikyd/zero"
 )
 
 func main() {
